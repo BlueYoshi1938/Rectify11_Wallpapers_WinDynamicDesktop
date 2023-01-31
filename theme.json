@@ -1,0 +1,10 @@
+{
+  "imageFilename": "11_*.png",
+  "imageCredits": "R11",
+  "dayImageList": [
+    1
+  ],
+  "nightImageList": [
+    2
+  ]
+}
